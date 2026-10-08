@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<biblioteca>
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <isbn>129712571924791</isbn>
+    </libro>
+    <libro>
+        <titulo>El Principito</titulo>
+        <autor>Antoine de Saint-Exupéry</autor>
+        <isbn>978-3-16-148410-0</isbn>
+    </libro>
+</bibilioteca>
